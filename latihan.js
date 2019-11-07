@@ -1,2 +1,3 @@
 console.log('Halo')
-misalakuubahlagi,misal
+
+console.log('BAru!!')
